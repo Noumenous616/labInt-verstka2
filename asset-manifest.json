@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7dc371d2.chunk.css",
+    "main.js": "./static/js/main.b5e761ab.chunk.js",
+    "main.js.map": "./static/js/main.b5e761ab.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a7a6b33c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a7a6b33c.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "./static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.cab63e96.chunk.js": "./static/js/2.cab63e96.chunk.js",
+    "static/js/2.cab63e96.chunk.js.map": "./static/js/2.cab63e96.chunk.js.map",
+    "static/js/3.82282215.chunk.js": "./static/js/3.82282215.chunk.js",
+    "static/js/3.82282215.chunk.js.map": "./static/js/3.82282215.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "./static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.7dc371d2.chunk.css.map": "./static/css/main.7dc371d2.chunk.css.map",
+    "static/js/2.cab63e96.chunk.js.LICENSE.txt": "./static/js/2.cab63e96.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "./static/media/MainBackGround.99920657.png",
+    "static/media/ManAndPhone.d41fbd6e.png": "./static/media/ManAndPhone.d41fbd6e.png",
+    "static/media/SideBarButton.416c5d08.png": "./static/media/SideBarButton.416c5d08.png",
+    "static/media/VectorNext.9a88d96b.png": "./static/media/VectorNext.9a88d96b.png",
+    "static/media/pictureFour.168237fe.png": "./static/media/pictureFour.168237fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a6b33c.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.cab63e96.chunk.js",
+    "static/css/main.7dc371d2.chunk.css",
+    "static/js/main.b5e761ab.chunk.js"
+  ]
+}
