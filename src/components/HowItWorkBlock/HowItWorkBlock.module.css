@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+.blockHowItWork {
+    line-height: 24px;
+    max-width: 1920px;
+    min-width: 320px
+}
+
+h2 {
+    text-align: center;
+    margin-top: 70px;
+    font-weight: bold;
+
+}
+
+.featuresBlock {
+    margin-top: 60px;
+
+}
+
+.featuresBlock h4 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.featuresBlock p {
+    font-size: 14px;
+    color: #5E646A
+}
+
+.featuresImg {
+    margin-bottom: 20px;
+}
+
+@media all and (min-width: 320px) and (max-width: 1900px) {
+    .featuresImg {
+        display: inline-block;
+    }
+
+    .featuresBlock {
+
+    }
+
+    .featuresImg {
+        text-align: center;
+        display: inline-block;
+        float: left;
+        margin-top: 20px;
+        margin-right: 20px;
+
+    }
+
+    .featuresBlock {
+        text-align: left;
+        margin-left: 15%;
+
+
+    }
+
+
+}

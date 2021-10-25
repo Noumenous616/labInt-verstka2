@@ -1,0 +1,10 @@
+.mainBlockBody {
+    max-width: 1920px;
+    min-width:320px
+}
+
+.bodyOfHeaderAndBlockOne {
+    background: url(./accetsMain/MainBackGround.png) center center no-repeat;
+    background-size: cover;
+
+}

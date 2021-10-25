@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.headerBody {
+  padding-top: 10px;
+}
+
+.headerText {
+
+    padding: 0 30px;
+    margin-top: 5px;
+    display: inline;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+
+}
+.testLab {
+    padding-left: 5px;
+}
+a {
+    padding: 10px;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+a:hover {
+    color: #FFFFFF;
+    text-decoration: underline;
+
+}
+
+.sideBarButton {
+
+    text-align: right;
+}

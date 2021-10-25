@@ -1,0 +1,32 @@
+.sideBarBody {
+    background-color: #FFFFFF;
+    width: 350px;
+    height: 500px;
+
+
+}
+
+.sideBarBody a {
+    font-size: 18px;
+    color: #83898F;
+
+}
+
+
+.sideBarHeaderContent {
+    border-bottom: 1px solid #ECEFF2;
+    padding-bottom: 20px;
+}
+
+.sideBarHeaderContent img {
+
+}
+
+.sideBarContent {
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 10px;
+    border-bottom: 1px solid #ECEFF2;
+    padding-bottom: 20px;
+}
+
